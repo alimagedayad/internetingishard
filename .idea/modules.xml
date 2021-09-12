@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hf-materialui/arcdev/.idea/arcdev.iml" filepath="$PROJECT_DIR$/../hf-materialui/arcdev/.idea/arcdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/internetingishard.iml" filepath="$PROJECT_DIR$/.idea/internetingishard.iml" />
+    </modules>
+  </component>
+</project>
